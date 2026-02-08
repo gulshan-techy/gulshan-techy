@@ -1,8 +1,8 @@
 💫 Hi 👋, I'm Gulshan Kumar
 A Aspiring Cloud & DevOps Engineer | 
 
-Email Me 👉 ✉️ gulsanshakya@gmail.com For Collaboration/Project or Anything Else. 😊😊
-
+Email Me 👉 ✉️ gulsanshakya123@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Contact Number 👉 9368174427
 🔭 I’m currently working on: Enter your project info here
 🌱 I’m currently learning: AWS , DevOps , Python , MySql , Computer Networking
 👯 I’m looking to collaborate on: Enter your project name and info
