@@ -1,15 +1,15 @@
-💫 Hi 👋, I'm Gulshan Kumar
-A Aspiring Cloud & DevOps Engineer | 
+# 💫 Hi 👋, I'm Gulshan Kumar  
+## An Aspiring Cloud & DevOps Engineer | 
 
-Email Me 👉 ✉️ gulsanshakya123@gmail.com For Collaboration/Project or Anything Else. 😊😊
-Contact Number 👉 9368174427
-🔭 I’m currently working on: Enter your project info here
-🌱 I’m currently learning: AWS , DevOps , Python , MySql , Computer Networking
-👯 I’m looking to collaborate on: Enter your project name and info
-🤔 I’m looking for help with: Your project here
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: Enter your email here
-😄 Pronouns: Gulshan Techie
+Email Me 👉 ✉️ gulsanshakya123@gmail.com For Collaboration/Project or Anything Else. 😊😊  
+Contact Number 👉 9368174427  
+🔭 I’m currently working on: 3-Tier Web Application Architecture Project  
+🌱 I’m currently learning: AWS , DevOps , Python , MySql , Computer Networking  
+👯 I’m looking to collaborate on:   
+🤔 I’m looking for help with:  
+💬 Ask me about: Collaboration, Tech Support  
+📫 How to reach me: gulsanshakya123@gmail.com   
+😄 Pronouns: Gulshan Techie  
 
 Stay updated with me to follow/connect linkedin
 ## 🌐 Socials:
