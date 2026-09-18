@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Gulshan Kumar  
-## An Aspiring Cloud & DevOps Engineer | 
+## Cloud & DevOps Engineer |
+## *AWS Certified Solutions Architech Associate (AWS SAA-C03)*
 
 Email Me 👉 ✉️ gulsanshakya123@gmail.com For Collaboration/Project or Anything Else. 😊😊  
 Contact Number 👉 9368174427  
